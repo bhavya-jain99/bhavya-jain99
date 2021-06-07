@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi Everyone
+* I'm working in field of Data Science
+* I'm Learning NLP currently
+* To Reach Me: **bhavyajain333@gmail.com**
+* It Will be Great If We Share Some Of Our Knowledge With Each Other.
+
 
 <!--
 **bhavya-jain99/bhavya-jain99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

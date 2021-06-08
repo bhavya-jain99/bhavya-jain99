@@ -1,7 +1,8 @@
 ### Hi Everyone
-* :pencil2: I'm working in field of Data Science
+* :pencil2: I'm Exploring the Field Of Data Science
 * :books: I'm Learning NLP currently
 * 📫 To Reach Me: **bhavyajain333@gmail.com**
+* 💬 Ask me about: Python,Machine Learning 
 * ⚡ It Will be Great If We Share Some Of Our Knowledge With Each Other.
 
 

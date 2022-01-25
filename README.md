@@ -1,8 +1,8 @@
 ### Hi Everyone
 * :pencil2: I'm Exploring the Field Of Data Science
-* :books: I'm Learning NLP currently
+* :books: Currently I am working as an Intern looking for a full time offer
 * 📫 To Reach Me: **work.bhavyajain@gmail.com**
-* 💬 Ask me about: Python,Machine Learning 
+* 💬 Ask me about: Python,Machine Learning, DBMS , Deep Learning
 * ⚡ It Will be Great If We Share Some Of Our Knowledge With Each Other.
 
 
